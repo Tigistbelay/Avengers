@@ -1,5 +1,5 @@
 /* stylelint-disable selector-list-comma-newline-after */
-
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=DM+Serif+Display&family=Merriweather:ital@0;1&family=Space+Mono:ital@1&family=Work+Sans:wght@400;500;800&display=swap');
 .blog-header {
   line-height: 1;
   border-bottom: 1px solid #e5e5e5;
@@ -17,6 +17,28 @@
 .about-class .about-content p {
   text-align: right;
 }
+
+
+.box {
+  width: 1100px;
+  height: 430px;
+  background-color: #C28C2E;
+  text-align: center;
+  color: white;
+  font-family: DM Serif Display;
+  margin-left: auto;
+  margin-right: auto;
+  box-shadow: 0 0 5px 10px #C28C2E;
+}
+
+/* .box h1 p {
+  width: 1000px;
+  height: 600px;
+  background-color: #C28C2E;
+  margin: 50px; 
+  color: white;
+  text-align: center;
+} */
 
 .hello p {
   color: blue;
