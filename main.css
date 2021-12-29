@@ -18,12 +18,8 @@
   text-align: right;
 }
 
-.hello p {
-  color: blue;
-}
-
-.btns {
-  color: black;
+.container_col {
+  position: relative;
 }
 
 h1,
