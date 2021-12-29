@@ -1,5 +1,5 @@
 /* stylelint-disable selector-list-comma-newline-after */
-
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=DM+Serif+Display&family=Merriweather:ital@0;1&family=Space+Mono:ital@1&family=Work+Sans:wght@400;500;800&display=swap');
 .blog-header {
   line-height: 1;
   border-bottom: 1px solid #e5e5e5;
@@ -18,9 +18,8 @@
   text-align: right;
 }
 
-.container_col {
-  position: relative;
-}
+
+
 
 h1,
 h2,
