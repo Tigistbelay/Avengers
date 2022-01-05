@@ -76,6 +76,11 @@ h6 {
   height: 2.75rem;
   overflow-y: hidden;
 }
+/* change the color of active or hovered links */
+.nav-scroller .nav-item.active .nav-link,
+.navbar-nav .nav-item:hover .nav-link {
+    color: F3F3F2;
+}
 
 .nav-scroller .nav {
   display: -ms-flexbox;
