@@ -1,5 +1,11 @@
 @import url("https://fonts.googleapis.com/css2?family=Mulish:wght@300;400;500;600;700&display=swap");
 
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
 body {
   background: #dbdddd;
   display: flex;
@@ -10,13 +16,15 @@ body {
 }
 
 .subscribe {
+  width: 90%;
+  margin: 10vh auto;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
   background: white;
   width: 945px;
-  height: 600px;
+  height: 700px;
   border-radius: 10px;
   box-shadow: 0 4px 20px rgba(0, 0, 0, 0.2);
 }
